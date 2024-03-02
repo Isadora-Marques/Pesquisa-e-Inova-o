@@ -1,0 +1,17 @@
+.principais{
+    background-color:#8c79eb; 
+    width: 200px; 
+    height: fit-content;
+}
+.secundaria{
+    background-color:#9e59a4; 
+    width: 300px; 
+    height: 300px;
+}
+p{
+    color: #fff;
+    background-color: #c99b9b; 
+    font-size: 25px; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-style: italic;
+}
